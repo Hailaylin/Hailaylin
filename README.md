@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 我研究的领域
-- AGI
-- Zig
+1. AGI
+2. Zig
 
 
 ### 我使用的编程语言和框架
@@ -26,21 +26,21 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cmake,zig,js,html,css,nginx,cloudflare,windows,linux,raspberrypi,docker,idea,obsidian,md,notion,git,github,gitlab,java,mysql,rust,ipfs)](https://skillicons.dev)
 
 还有：
-- mkdocs
-- vitepress
-- frps
-- etc.
+1. mkdocs
+2. vitepress
+3. frps
+4. etc.
 
-###我熟悉的嵌入式设备
+### 我熟悉的嵌入式设备
 
-- 示波器、万用表、热风枪、电烙铁
-- ESP32C3、ESP32S3、STM32H7、STM32F103、GD32F470
-- AXP202、BNO085
-- etc.
+1. 示波器、万用表、热风枪、电烙铁
+2. ESP32C3、ESP32S3、STM32H7、STM32F103、GD32F470
+3. AXP202、BNO085
+4. etc.
 
 ### 我熟悉的电路
 
-- 锂电池充放电与保护电路
-- 低压boost/buck电路
-- 电机驱动电路
-- 单片机最小系统
+1. 锂电池充放电与保护电路
+2. 低压boost/buck电路
+3. 电机驱动电路
+4. 单片机最小系统
