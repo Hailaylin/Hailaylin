@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 ### 我熟悉的嵌入式设备
 
 1. 示波器、万用表、热风枪、电烙铁
-2. ESP32C3、ESP32S3、STM32H7、STM32F103、GD32F470、raspberrypi、rk3566
+2. ESP32C3、ESP32S3、STM32H7、STM32F103、GD32F470、raspberrypi、rk3566、rk3588
 3. AXP202、BNO085
-4. etc.
+4. 协议：UART、IIC、SPI，PWM、INT
+5. etc.
 
 ### 我熟悉的电路
 
