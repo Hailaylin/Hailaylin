@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 我使用的语言和框架
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cmake,zig,js,html,css,cloudflare, linux,docker,idea,obsidian,md,notion,git,github,gitlab,java,mysql,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cmake,zig,js,html,css,cloudflare,linux,docker,idea,obsidian,md,notion,git,github,gitlab,java,mysql,rust)](https://skillicons.dev)
