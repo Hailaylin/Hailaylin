@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我使用的语言和框架
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,zig)](https://skillicons.dev)
